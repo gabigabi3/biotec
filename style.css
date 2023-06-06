@@ -2,4 +2,5 @@
     background-color: rgb(12, 192, 6);
     color: black;
     display: flex;
+    justify-content: space-around;
 }
