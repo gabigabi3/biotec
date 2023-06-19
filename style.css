@@ -17,3 +17,16 @@
     font-size: 24px;
 }
 
+.projeto-imagem{
+    width: 25%;
+
+}
+
+.sobre{
+    background-image: linear-gradient(rgb(12, 192, 6), rgb(177, 235, 175));
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
