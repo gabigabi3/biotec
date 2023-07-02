@@ -8,13 +8,12 @@
 }
 
 .cabeçalho-imagem{
-    width: 5%;
+    width: 10%;
 }
 
 .tit{
     color:white;
     font-size: 40px;
-    margin: 10%;
     font-family: 'Times New Roman', Times, serif;
     text-align: initial;
 }
