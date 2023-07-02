@@ -55,7 +55,7 @@
 .sobre-projeto{
     padding: 24px 0;
     position: absolute;
-    top: 600px;
+    top: 400px;
     left: 300px;
 }
 
@@ -64,6 +64,6 @@
     text-align: justify;
     text-indent: 30px;
     position: absolute;
-    top: 800px;
+    top: 600px;
     left: 300px;
 }
