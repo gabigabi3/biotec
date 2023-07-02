@@ -30,7 +30,7 @@
 }
 
 .sobre{
-    background-image: linear-gradient(rgb(12, 192, 6), rgb(177, 235, 175));
+    background-image: linear-gradient(rgb(12, 192, 6), rgba(202, 252, 207, 1));
     color:white;
     display: flex;
     justify-content: center;
