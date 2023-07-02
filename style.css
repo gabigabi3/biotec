@@ -15,7 +15,7 @@
     color:white;
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
-    text-align: initial;
+    text-align: start;
     display: absolute;
     left: 100px;
 }
