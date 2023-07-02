@@ -39,9 +39,6 @@
 .sobre{
     background-image: linear-gradient(rgb(0, 0, 0), rgba(202, 252, 207, 1));
     color:white;
-    display: flex;
-    position:absolute;
-    top: 200px;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
