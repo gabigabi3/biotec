@@ -33,6 +33,9 @@
 .projeto-imagem{
     width: 35%;
     margin: 10%;
+    position: absolute;
+    top: 100px;
+    left: 200px;
 }
 
 /* Esse sobre é a seção inteira <- pra não me perder */
