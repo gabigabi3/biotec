@@ -1,3 +1,5 @@
+/* Cabeçalho do site */
+
 .cabeçalho{
     background-color: rgb(12, 192, 6);
     color: white;
@@ -40,7 +42,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 24px -20;
 }
 
 .divisão{
