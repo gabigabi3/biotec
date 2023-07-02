@@ -44,8 +44,10 @@
 
 .sobre-projeto{
     padding: 15px 0;
+    text-align: center;
 }
 
 .sobre1{
     text-align: justify;
+    text-indent: 30px;
 }
