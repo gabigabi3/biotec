@@ -16,6 +16,7 @@
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
     text-align: initial;
+    left: 200px;
 }
 
 .cabeçalho-lista-item{
@@ -23,6 +24,8 @@
     margin: 0 10px;
     font-size: 24px;
 }
+
+/* Corpo do site */
 
 .projeto-imagem{
     width: 35%;
