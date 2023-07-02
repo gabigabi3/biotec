@@ -54,10 +54,16 @@
 
 .sobre-projeto{
     padding: 24px 0;
+    position: absolute;
+    top: 100px;
+    left: 300px;
 }
 
 .sobre1{
     font-size: 20px;
     text-align: justify;
     text-indent: 30px;
+    position: absolute;
+    top: 100px;
+    left: 300px;
 }
