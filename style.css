@@ -39,7 +39,7 @@
 }
 
 /* Esse sobre é a seção inteira <- pra não me perder */
-.sobre{
+.section#sobre{
     background-image: linear-gradient(rgb(12, 192, 6), rgb(114, 230, 126));
     color:white;
     display: flex;
@@ -61,4 +61,8 @@
     font-size: 20px;
     text-align: justify;
     text-indent: 30px;
+}
+
+.section#o-que{
+    align-items: center;
 }
