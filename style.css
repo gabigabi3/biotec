@@ -32,11 +32,7 @@
 
 .body{
     font-family: 'Times New Roman', Times, serif;
-}
-
-#tudo{
-    width: 100%;
-
+    margin: auto auto 0 auto;
 }
 
 /* Seção bio */
