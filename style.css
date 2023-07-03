@@ -16,7 +16,7 @@
 .tit{
     color:white;
     font-size: 40px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: start;
     display: absolute;
     left: 100px;
@@ -31,7 +31,7 @@
 /* Corpo do site */
 
 .body{
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .projeto-imagem{
@@ -47,7 +47,7 @@
     justify-content: center;
     align-items: center;
     padding: 24px 0;
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .divisão{
