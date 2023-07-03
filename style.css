@@ -34,12 +34,14 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
+
+/* Seção bio */
 .projeto-imagem{
     width: 25%;
+    margin: 2%;
 }
 
-/* Esse sobre é a seção inteira <- pra não me perder */
-#sobre{
+#bio{
     background-image: linear-gradient(rgb(12, 192, 6), rgb(114, 230, 126));
     color:white;
     display: flex;
@@ -49,16 +51,28 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
-.section#sobre div{
+.divisão{
     width: 30%;
 }
 
-.section#sobre h2{
+.sobre-bio{
     padding: 24px 0;
 }
 
-.section#sobre p{
+.sobre1{
     font-size: 20px;
     text-align: justify;
     text-indent: 30px;
+}
+
+/* Seção projeto */
+
+#projeto{
+    padding: 24px;
+    color:black;
+}
+
+.titulo1{
+    text-align: center;
+    padding: 50px 0;
 }
