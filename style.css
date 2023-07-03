@@ -74,5 +74,16 @@
 
 .titulo1{
     text-align: center;
-    padding: 50px 0;
+    padding: 50px 
 }
+
+#sobre-projeto{
+    background-color: white;
+    color: black;
+    align-items: center;
+}
+
+.div-projeto{
+    width: 70%;
+}
+
