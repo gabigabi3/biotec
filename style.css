@@ -30,6 +30,10 @@
 
 /* Corpo do site */
 
+.body{
+    font-family: sans-serif;
+}
+
 .projeto-imagem{
     width: 35%;
     margin: 10%;
